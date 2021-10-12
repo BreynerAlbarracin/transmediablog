@@ -1,0 +1,14 @@
+@import "./Fonts.css";
+@import "./Colors.css";
+@import "./TextStyle.css";
+@import "./Loader.css";
+@import "./Containers.css";
+@import "./Spaces.css";
+
+div {
+  display: flex;
+}
+
+#root {
+  margin: -8px;
+}

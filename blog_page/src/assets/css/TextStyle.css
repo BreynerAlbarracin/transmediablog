@@ -1,0 +1,23 @@
+.title-big {
+  font-family: "montserrat-Bold";
+  color: var(--whiteDark);
+  font-size: 3.8rem;
+}
+
+.title-medium {
+  font-family: "montserrat-Bold";
+  color: var(--whiteDark);
+  font-size: 1.6rem;
+}
+
+.title-small {
+  font-family: "montserrat-Bold";
+  color: var(--whiteDark);
+  font-size: 1.6rem;
+}
+
+.text-white {
+  font-family: "montserrat-Regular";
+  color: var(--whiteDark);
+  font-size: 1rem;
+}
